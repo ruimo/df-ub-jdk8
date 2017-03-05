@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu
 MAINTAINER Shisei Hanai<ruimo.uno@gmail.com>
 
 RUN apt-get update
